@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: win-physical-job
+package: ta-ko-ho/win-physical-job
